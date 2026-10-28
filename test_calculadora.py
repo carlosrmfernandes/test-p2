@@ -7,7 +7,7 @@ def test_multiplicacao():
 def test_soma():
     result = soma(4, 3)
     assert result == 7
-
+#ola
 def test_sub():
     result = sub(1, 3)
     assert result == -2 
