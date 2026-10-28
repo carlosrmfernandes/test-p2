@@ -10,7 +10,7 @@ def test_soma():
 #ola
 def test_sub():
     result = sub(1, 3)
-    assert result == -2 
+    assert result == -24 
 
 
 def test_calculadora():
